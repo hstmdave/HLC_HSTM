@@ -1,5 +1,3 @@
-<head>
-  <body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -19,5 +17,3 @@
 	};
 </script>
 <script type='text/javascript' src='https://healthstream--hstm.sandbox.my.site.com/ESWHLCMessaging1741632889089/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-  </body>
-</head>
