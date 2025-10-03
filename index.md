@@ -4,11 +4,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00DWL000002dfgT',
+				'00DWL0000037Hwr',
 				'HLC_Messaging',
-				'https://healthstream--hstm.sandbox.my.site.com/ESWHLCMessaging1741632889089',
+				'https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089',
 				{
-					scrt2URL: 'https://healthstream--hstm.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://healthstream--davemiaw.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -16,4 +16,5 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://healthstream--hstm.sandbox.my.site.com/ESWHLCMessaging1741632889089/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://healthstream--davemiaw.sandbox.my.site.com/ESWHLCMessaging1741632889089/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'>
+</script>
